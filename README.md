@@ -1,7 +1,4 @@
-# solidity-programming
-okens
 
-Codeship Status for ConsenSys/Tokens Coverage Status license David npm AirBNB GitHub issues
 
 This repo contains Solidity smart contract code for simple, standards-compliant tokens on Ethereum. Adhering to standards allows other contract developers to easily incorporate your token into their applications.
 
