@@ -13,21 +13,3 @@ Here are the guiding principles for this repository:
     Readability: Solutions that make sense to humans should be prioritized over those heavily optimized or complex.
     Secure: Modifications to the master branch will only be accepted after thorough review and scrutinization from the community, the project maintainers, and at least one professional vendor to ensure no security vulnerabilities are introduced.
 
-Initialize
-
-The only environmental dependency you need is Node. Presently we can guarantee this all works with Node 8.
-
-npm install
-npm run compile
-
-Tests
-
-The repo has a comprehensive test suite. You can run it with npm run test.
-ethpm
-
-The contracts in this repo are published under tokens on EPM. EPM is the recommended means of consuming token contracts in this repo. Copy-pasting code is highly discouraged.
-Contributing
-
-Pull requests are welcome! Please keep standards discussions to the EIP repos.
-
-When submitting a pull request, please do so to the staging branch. For a pull request to be accepted, they must pass the test suite. If a pull request adds features, it should add test coverage for those features.
